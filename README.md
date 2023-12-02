@@ -17,7 +17,7 @@ App will use a Fine tuned version of GPT with multiple recipies and information 
 - **Special Ocasion**?. Dont worry WSIE Ai will tell you what meal will be perfect to go along this event.
 
 **technologies:**
-- Open AI API
+- Langchain
 - Python
-- React
-- Three.js - probably xd
+- React.ts
+- Three.ts - probably (maybe) xd
